@@ -4,7 +4,7 @@
 
 - Learn you a haskell: http://learnyouahaskell.com/
 
-## F#
+## F\#
 
 - Aprende F# online: http://www.tryfsharp.org/
 - F# desde C#, Java o Python: http://fsharpforfunandprofit.com/
